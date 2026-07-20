@@ -10,9 +10,11 @@ Photography Website
 3. open index.html in your browser
 ## Author
 Godwin Githinji
-## Link to Live Site
+## Link to Website
 **link to Github**
-
+https://github.com/MaroneRe/photography-website1.git
+**link to  website**
+https://maronere.github.io/photography-website1/
 ## license
 This project is licenced under the **[MIT license] (license)**
 it was only created for learning purposes only
